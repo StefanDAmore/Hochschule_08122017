@@ -19,8 +19,8 @@
 ---
 
 **Vorstellung Stefan D'Amore**
-	- ScribbleLive
-	- Scompler
+- ScribbleLive
+- Scompler
 
 ---
 
