@@ -8,6 +8,16 @@
 
 ## Agenda 27.10.2017
 
+- Vorstellung Stefan D'Amore
+- Organisatorisches
+- Erwartungen an das Seminar
+- Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar 
+- Vorgehensweisen und Ziele während des Semesters
+- Was bedeutet Content Strategie?
+- Präsentation Content Maturity Matrix & Besprechung
+- Aufgaben für das nächste Mal
+
+
 **Vorstellung Stefan D'Amore**
 	- ScribbleLive
 	- Scompler
@@ -22,14 +32,14 @@
 
 ---
 
-**Erwartungen an das Seminar (Karten)**
+** Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)**
 	- Teilnehmerinnen
 	- Dozent
 	- Hochschule 
 
 ---
 
-**Ziele und Vorgehensweisen während des Semesters**
+** Vorgehensweisen und Ziele während des Semesters**
 	- Kurze Einführung in das jeweilige Thema der Blockveranstaltung
 	- Kurzreferate zu im Vorfeld vergebenen Themen
 	- Projektarbeiten zu Technologien in Gruppen
