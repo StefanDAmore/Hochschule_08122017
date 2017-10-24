@@ -10,7 +10,6 @@
 
 - Vorstellung Stefan D'Amore
 - Organisatorisches
-- Erwartungen an das Seminar
 - Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar 
 - Vorgehensweisen und Ziele während des Semesters
 - Was bedeutet Content Strategie?
