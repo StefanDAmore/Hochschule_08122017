@@ -1,5 +1,6 @@
 # Digitale Medien I & Digitale Medien II
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+![Logo](http://scompler.com/wp-content/uploads/2017/06/ScribbleLive_Scompler_Logo_left.png)
+
 ---
 
 ## M11 Wahlpflichtmodul I & M12 Wahlpflichtmodul II
