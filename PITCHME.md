@@ -18,7 +18,10 @@
 - Aufgaben für das nächste Mal
 ---
 
-**Vorstellung Stefan D'Amore**
+### Vorstellung Stefan D'Amore
++++
+
+### Tätigkeiten
 - ScribbleLive
 - Scompler
 
