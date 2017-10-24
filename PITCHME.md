@@ -52,14 +52,14 @@ Demand Generation (ScribbleLive /Scompler)
 
 ---
 
-** Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)**
+**Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)**
 - Teilnehmerinnen
 - Dozent
 - Hochschule 
 
 ---
 
-** Vorgehensweisen und Ziele während des Semesters**
+**Vorgehensweisen und Ziele während des Semesters**
 - Kurze Einführung in das jeweilige Thema der Blockveranstaltung
 - Kurzreferate zu im Vorfeld vergebenen Themen
 - Projektarbeiten zu Technologien in Gruppen
