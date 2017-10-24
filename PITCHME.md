@@ -46,7 +46,7 @@
 
 ---
 
-**Organisatorisches**
+### Organisatorisches
 - Teilnehmerinnenliste
 - Termine
 - Informationsmaterial (Links zu Artikeln im Intranet)
@@ -54,14 +54,14 @@
 
 ---
 
-**Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)**
+### Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)
 - Teilnehmerinnen
 - Dozent
 - Hochschule 
 
 ---
 
-**Vorgehensweisen und Ziele während des Semesters**
+### Vorgehensweisen und Ziele während des Semesters
 - Kurze Einführung in das jeweilige Thema der Blockveranstaltung
 - Kurzreferate zu im Vorfeld vergebenen Themen
 - Projektarbeiten zu Technologien in Gruppen
@@ -69,7 +69,7 @@
 
 ---
 
-**Was bedeutet Content-Strategie?** 
+### Was bedeutet Content-Strategie?
 - Was ist Content?
 - Was ist Strategie?
 - Was hat das mit Unternehmenskommunikation zu tun?
