@@ -20,6 +20,7 @@
 ---
 
 ## Vorstellung Stefan D'Amore
+### Redaktion / IT / Marketing
 +++
 
 ### Tätigkeiten im Marketing
