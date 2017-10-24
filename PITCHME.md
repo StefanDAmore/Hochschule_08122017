@@ -21,13 +21,13 @@
 ### Vorstellung Stefan D'Amore
 +++
 
-### Marketing-Tätigkeiten
+### Tätigkeiten im Marketing
 - Senior Content Marketing Specialist & <br />
 Demand Generation (ScribbleLive /Scompler)
 - Projektmanager Digitales Marketing (Thüga AG)
 +++
 
-### IT
+### Tätigkeiten in der IT
 **Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)**
 - E-Mail-Marketing 
 - Integration Webinar-Technologien 
@@ -38,8 +38,7 @@ Demand Generation (ScribbleLive /Scompler)
 - Chefredakteur Software & Support Verlag
 - Verleger MX Magazin
 - Freier Journalist
-- Redakteur tecChannel, IDG, erstes Webzine Deutschlands<br />
-zuständig für Internettechnologien
+- Redakteur tecChannel, IDG, erstes Webzine Deutschlands, zuständig für Internettechnologien
 - Lektor redtec publishing, Trainingsunterlagen
 - Autor Trainingsunterlagen
 
