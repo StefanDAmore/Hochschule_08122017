@@ -85,7 +85,7 @@
 
 --- 
 
-<a href="https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/" rel="nofollow"><img src="http://www.statista.com/graphic/1/272014/global-social-networks-ranked-by-number-of-users.jpg" alt="Statistic: Most famous social network sites worldwide as of September 2017, ranked by number of active users (in millions) | Statista" style="width: 50%; height: 50% !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
+<a href="https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/" rel="nofollow"><img src="http://www.statista.com/graphic/1/272014/global-social-networks-ranked-by-number-of-users.jpg" alt="Statistic: Most famous social network sites worldwide as of September 2017, ranked by number of active users (in millions) | Statista" style="width: 30%; height: 50% !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
  
 
