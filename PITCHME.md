@@ -1,5 +1,5 @@
 # Digitale Medien I & Digitale Medien II
-
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 ---
 
 ## M11 Wahlpflichtmodul I & M12 Wahlpflichtmodul II
