@@ -93,6 +93,29 @@ Geschäftsführer Dataion GmbH
 <a href="https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/" rel="nofollow"><img src="http://www.statista.com/graphic/1/272014/global-social-networks-ranked-by-number-of-users.jpg" alt="Statistic: Most famous social network sites worldwide as of September 2017, ranked by number of active users (in millions) | Statista" style="width: 35%; height: 50% !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a>
 
  
+--- 
+
+### Name
+## Mitgliederanzahl 
+### International: XXX / National: XXX
+
+--- 
+
+## Eingesetzte Content-Typen
+(Blog-Artikel / Bilder / Video / Sound ...)
+
+## Hervorstechende Formate / Anwendungen
+
+## Empfehlung, als Kanal zu nutzen?
+Ja / Nein / Warum? (Für wen könnte der Kanal interessant sein?)
+
+## Werbung möglich?
+Ja / Nein (wie funktioniert das?)
+
+## Wer hält sich in dem Kanal auf?
+Wer ist die Zielgruppe in dem Kanal?
+
+
 
 
 
