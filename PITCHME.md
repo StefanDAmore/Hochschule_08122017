@@ -30,10 +30,14 @@
 +++
 
 ### Tätigkeiten in der IT
-**Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)**
-- E-Mail-Marketing 
-- Integration Webinar-Technologien 
+
+Geschäftsführer Dataion GmbH
+(Hauptkunde Munich Re)
+
+- E-Mail-Marketing
+- Integration Webinar-Technologien
 - Aufbau Bereichsauftritte Intranet 
+
 +++
 
 ### Redaktionelle Tätigkeiten
