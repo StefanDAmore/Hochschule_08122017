@@ -7,24 +7,25 @@
 
 ---
 
-## Agenda 27.10.2017
+### Agenda 27.10.2017
 
 - Vorstellung Stefan D'Amore
 - Organisatorisches
 - Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar 
 - Vorgehensweisen und Ziele während des Semesters
-- Was bedeutet Content Strategie?
+- Was bedeutet Content-Strategie?
 - Präsentation Content Maturity Matrix & Besprechung
 - Aufgaben für das nächste Mal
+
 ---
 
-### Vorstellung Stefan D'Amore
+## Vorstellung Stefan D'Amore
 +++
 
 ### Tätigkeiten im Marketing
-- Senior Content Marketing Specialist & <br />
-Demand Generation (ScribbleLive /Scompler)
+- Senior Content Marketing Specialist & Demand Generation (ScribbleLive /Scompler)
 - Projektmanager Digitales Marketing (Thüga AG)
+
 +++
 
 ### Tätigkeiten in der IT
