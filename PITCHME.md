@@ -16,7 +16,7 @@
 - Was bedeutet Content Strategie?
 - Präsentation Content Maturity Matrix & Besprechung
 - Aufgaben für das nächste Mal
-
+---
 
 **Vorstellung Stefan D'Amore**
 	- ScribbleLive
