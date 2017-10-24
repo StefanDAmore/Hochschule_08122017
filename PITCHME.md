@@ -25,8 +25,11 @@
 - Senior Content Marketing Specialist (ScribbleLive /Scompler)
 - Demand Generation (ScribbleLive /Scompler)
 - Projektmanager Digitales Marketing (Thüga AG)
++++
+
 - Geschäftsführer Dataion GmbH (Hauptkunde Munich Re)
 - E-Mail-Marketing / Integration Webinar-Technologien / Aufbau Bereichsauftritte Intranet 
++++
 - Chefredakteur Software & Support Verlag
 - Verleger MX Magazin
 - Freier Journalist
