@@ -115,7 +115,14 @@ Ja / Nein (wie funktioniert das?)
 ## Wer hält sich in dem Kanal auf?
 Wer ist die Zielgruppe in dem Kanal?
 
+---
 
+
+<canvas data-chart="radar">
+Month, January, February, March, April, May, June, July
+My first dataset, 65, 59, 80, 81, 56, 55, 40
+My second dataset, 28, 48, 40, 19, 86, 27, 90
+</canvas>
 
 
 
