@@ -1,3 +1,4 @@
 theme : white
 background : images/bg1.jpg
 logo : http://www.sdi-muenchen.de/fileadmin/templates/images/sdi_muc_logo_MUC.png
+charts: true;
