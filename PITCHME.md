@@ -140,5 +140,5 @@ https://www.vidyard.com/
 ## Scompler
 Link zu Scompler [Scompler](http://scompler.com).
 
-## Stefan D'Aore
+## Stefan D'Amore
 Link zur Website von Stefan D'Amore [Scompler](http://scompler.com).
