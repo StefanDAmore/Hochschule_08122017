@@ -135,11 +135,10 @@ Wer ist die Zielgruppe in dem Kanal?
 Aufnamelösung mit Google Chrome
 https://www.vidyard.com/
 
-
-
 ---
-## Scompler
-Link zu [Scompler](http://scompler.com).
 
 ## Stefan D'Amore
 Link zur Website von [Stefan D'Amore](http://www.damore.de).
+
+## Scompler
+Link zu [Scompler](http://scompler.com).
