@@ -1,6 +1,6 @@
 # Herzlich Willkommen! 
 
-<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_27102017/master/images/1210656.jpg" alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" />
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_27102017/master/images/1210656.jpg" width="40%" height="40%" border="0" />
 
 
 ---
