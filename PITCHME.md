@@ -81,7 +81,7 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 
 ---
 
-### Was bedeutet Content-Strategie?
+### Gruppenarbeit <br />Was bedeutet Content-Strategie?
 - Was ist Content?
 - Was ist Strategie?
 - Was hat das mit Unternehmenskommunikation zu tun?
