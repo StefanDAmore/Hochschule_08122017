@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_27102017/master/images/1210656.jpg" width="20%" height="20%" border="0" />
 
-
 ---
----?image=images/1210656.jpg&size=auto 40%
 
 # Digitale Medien I & Digitale Medien II
 
