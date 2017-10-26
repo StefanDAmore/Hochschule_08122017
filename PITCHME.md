@@ -1,6 +1,6 @@
 # Herzlich Willkommen! <br />
 
-+++?image=images/1210656.jpg
++++?image=images/1210656.jpg&size=auto 40%
 ---
 
 
