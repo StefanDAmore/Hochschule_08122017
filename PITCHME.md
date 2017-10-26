@@ -1,6 +1,6 @@
 # Herzlich Willkommen! <br />
 
----?image=www.github.com/StefanDAmore/hochschule_27102017/images/1210656.jpg&size=auto 50%
+![Logo](assets/logo.jpg)&size=auto 90%
 
 ---
 
