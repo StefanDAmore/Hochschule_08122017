@@ -132,7 +132,7 @@ Wer ist die Zielgruppe in dem Kanal?
 ---
 
 ## Anwendungen
-Aufnamelösung mit Google Chrome
+Aufnahmelösung mit Google Chrome
 https://www.vidyard.com/
 
 ---
