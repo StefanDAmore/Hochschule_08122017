@@ -1,4 +1,4 @@
-# Herzlich Willkommen! <br /><br />:)
+# Herzlich Willkommen! <br />
 
 ![Logo](images/1210656.jpg)
 
