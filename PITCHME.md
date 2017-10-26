@@ -1,6 +1,6 @@
 # Herzlich Willkommen! <br />
 
-![Logo](images/1210656.jpg)
+---?image=images/1210656.jpg&size=50% 50%
 
 ---
 
