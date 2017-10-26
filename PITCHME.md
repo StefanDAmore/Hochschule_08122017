@@ -1,6 +1,6 @@
 # Herzlich Willkommen! <br />
 
-![Logo](assets/logo.jpg)&size=auto 90%
+![Logo](images/logo.jpg)&size=auto 90%
 
 ---
 
