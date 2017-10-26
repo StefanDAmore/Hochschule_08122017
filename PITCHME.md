@@ -53,8 +53,6 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 - Senior Content Marketing Specialist & Demand Generation (ScribbleLive /Scompler)
 - Projektmanager Digitales Marketing (Thüga AG)
 
-
-
 ---
 
 ### Organisatorisches
@@ -65,18 +63,21 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 
 ---
 
-### Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar (Karten)
+### Vorstellung der TeilnehmerInnen 
+- Wer sind Sie?
+- Woher kommen Sie?
+- Welche Vorerfahrung haben Sie zum Thema Internet?
+
+---
+
+### Erwartungen an das Seminar (Karten)
 - Teilnehmerinnen
 - Dozent
 - Hochschule 
 
 ---
 
-### Vorgehensweisen und Ziele während des Semesters
-- Kurze Einführung in das jeweilige Thema der Blockveranstaltung
-- Kurzreferate zu im Vorfeld vergebenen Themen
-- Projektarbeiten zu Technologien in Gruppen
-- Ggf. Ansätze zu einer Content-Strategie für die Hochschule erarbeiten
+### Welche Sorgen / Befürchtungen haben Sie / was soll auf keinen Fall passieren?
 
 ---
 
@@ -90,16 +91,22 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 ## Präsentation Content Maturity Matrix
 ### Besprechung 
 
-## Aufgaben für das nächste Mal
+---
 
-**Artikel lesen / vorbereiten**
+### Vorgehensweisen und Ziele während des Semesters
+- Kurze Einführung in das jeweilige Thema der Blockveranstaltung
+- Kurzreferate zu im Vorfeld vergebenen Themen
+- Ggf. Ansätze zu einer Content-Strategie für die Hochschule erarbeiten
+
+---
+
+## Referate
 
 --- 
 
 ### Social Networks
 <a href="https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/" rel="nofollow"><img src="http://www.statista.com/graphic/1/272014/global-social-networks-ranked-by-number-of-users.jpg" alt="Statistic: Most famous social network sites worldwide as of September 2017, ranked by number of active users (in millions) | Statista" style="width: 35%; height: 50% !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a>
 
- 
 --- 
 
 ### Name
@@ -124,14 +131,14 @@ Wer ist die Zielgruppe in dem Kanal?
 
 ---
 
-
-
 ## Anwendungen
 https://www.vidyard.com/
 
 
 
 ---
-## Page title
-A paragraph with some text and a [link](http://hakim.se).
+## Scompler
+Link zu Scompler [Scompler](http://scompler.com).
 
+## Stefan D'Aore
+Link zur Website von Stefan D'Amore [Scompler](http://scompler.com).
