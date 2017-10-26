@@ -1,5 +1,4 @@
 # Digitale Medien I & Digitale Medien II
-![Logo](http://scompler.com/wp-content/uploads/2017/06/ScribbleLive_Scompler_Logo_left.png)
 
 ---
 
@@ -28,6 +27,7 @@
 - Projektmanager Digitales Marketing (Thüga AG)
 
 +++
+
 
 ### Tätigkeiten in der IT
 
@@ -116,13 +116,6 @@ Ja / Nein (wie funktioniert das?)
 Wer ist die Zielgruppe in dem Kanal?
 
 ---
-
-
-<canvas data-chart="radar">
-Month, January, February, March, April, May, June, July
-My first dataset, 65, 59, 80, 81, 56, 55, 40
-My second dataset, 28, 48, 40, 19, 86, 27, 90
-</canvas>
 
 
 
