@@ -1,9 +1,11 @@
 # Herzlich Willkommen! 
 
----?image=images/1210656.jpg&size=auto 40%
+<img src="images/1210656.jp" 
+alt="IMAGE ALT TEXT HERE" width="50%" height="50%" border="10" /></a>
+
 
 ---
-
+---?image=images/1210656.jpg&size=auto 40%
 
 # Digitale Medien I & Digitale Medien II
 
