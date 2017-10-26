@@ -1,6 +1,6 @@
 # Herzlich Willkommen! <br />
 
----?image=https://github.com/StefanDAmore/hochschule_27102017/images/1210656.jpg&size=auto 50%
+---?image=www.github.com/StefanDAmore/hochschule_27102017/images/1210656.jpg&size=auto 50%
 
 ---
 
