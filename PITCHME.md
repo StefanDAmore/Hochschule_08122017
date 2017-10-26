@@ -20,23 +20,6 @@
 
 ## Vorstellung Stefan D'Amore
 ### Redaktion / IT / Marketing
-+++
-
-### Tätigkeiten im Marketing
-- Senior Content Marketing Specialist & Demand Generation (ScribbleLive /Scompler)
-- Projektmanager Digitales Marketing (Thüga AG)
-
-+++
-
-
-### Tätigkeiten in der IT
-
-Geschäftsführer Dataion GmbH
-(Hauptkunde Munich Re)
-
-- E-Mail-Marketing
-- Integration Webinar-Technologien
-- Aufbau Bereichsauftritte Intranet 
 
 +++
 
@@ -48,12 +31,31 @@ Geschäftsführer Dataion GmbH
 - Lektor redtec publishing, Trainingsunterlagen
 - Autor Trainingsunterlagen
 
++++
+
+### Tätigkeiten in der IT
+
+Geschäftsführer 
+Dataion GmbH, (Hauptkunde Munich Re)
+
+- E-Mail-Marketing
+- Integration Webinar-Technologien
+- Aufbau Bereichsauftritte Intranet 
+
++++
+
+### Tätigkeiten im Marketing
+- Senior Content Marketing Specialist & Demand Generation (ScribbleLive /Scompler)
+- Projektmanager Digitales Marketing (Thüga AG)
+
+
+
 ---
 
 ### Organisatorisches
 - Teilnehmerinnenliste
 - Termine
-- Informationsmaterial (Links zu Artikeln im Intranet)
+- Informationsmaterial & Abstimmung --> Trello?
 - WhatsApp-Gruppe? —> Telefonliste
 
 ---
