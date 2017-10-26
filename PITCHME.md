@@ -115,18 +115,18 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 
 --- 
 
-## Eingesetzte Content-Typen
+**Eingesetzte Content-Typen**
 (Blog-Artikel / Bilder / Video / Sound ...)
 
-## Hervorstechende Formate / Anwendungen
+**Hervorstechende Formate / Anwendungen**
 
-## Empfehlung, als Kanal zu nutzen?
+**Empfehlung, als Kanal zu nutzen?**
 Ja / Nein / Warum? (Für wen könnte der Kanal interessant sein?)
 
-## Werbung möglich?
+**Werbung möglich?**
 Ja / Nein (wie funktioniert das?)
 
-## Wer hält sich in dem Kanal auf?
+**Wer hält sich in dem Kanal auf?**
 Wer ist die Zielgruppe in dem Kanal?
 
 ---
