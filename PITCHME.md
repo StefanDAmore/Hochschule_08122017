@@ -14,7 +14,7 @@
 - Vorgehensweisen und Ziele während des Semesters
 - Was bedeutet Content-Strategie?
 - Präsentation Content Maturity Matrix & Besprechung
-- Aufgaben für das nächste Mal
+- Referatsthemen
 
 ---
 
