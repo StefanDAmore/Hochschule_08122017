@@ -1,8 +1,8 @@
 # Herzlich Willkommen! <br />
 
-+++?image=https://github.com/StefanDAmore/hochschule_27102017/images/1210656.jpg
-
++++?image=images/1210656.jpg
 ---
+
 
 # Digitale Medien I & Digitale Medien II
 
