@@ -58,7 +58,7 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 ### Organisatorisches
 - Teilnehmerinnenliste
 - Termine
-- Informationsmaterial & Abstimmung --> Trello?
+- Informationsmaterial & Abstimmung --> Trello
 - WhatsApp-Gruppe? —> Telefonliste
 
 ---
@@ -96,7 +96,7 @@ Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
 ### Vorgehensweisen und Ziele während des Semesters
 - Kurze Einführung in das jeweilige Thema der Blockveranstaltung
 - Kurzreferate zu im Vorfeld vergebenen Themen
-- Ggf. Ansätze zu einer Content-Strategie für die Hochschule erarbeiten
+- Ansätze zu einer Content-Strategie für die Hochschule erarbeiten
 
 ---
 
