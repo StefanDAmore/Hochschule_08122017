@@ -13,7 +13,7 @@
 
 ---
 
-## Was beeinflusst die Sichtbarkeit von Informationen?
+### Was beeinflusst die Sichtbarkeit von Informationen?
 
 Mark Schaefers Content Shock
 
