@@ -17,13 +17,21 @@
 
 **Content Shock (Mark Schaefer, 2013)**
 
-Wettbewerbssituation: Immer mehr Content trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit (in Zeit).
+Wettbewerbssituation um Aufmerksamkeit: 
+<img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="80%" height="80%" border="0" />
 
-<img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="40%" height="40%" border="0" />
+Immer mehr Content ...
+... trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit.
 
 +++
 
-1. Deep pockets win
+<img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="80%" height="80%" border="0" />
+
++++
+
+**Resume von Mark Schaefer**
+
+1. Deep pockets win: Die Kosten für die Produktion von 
 2. The entry barriers become impossibly high
 3. The cost-benefits flip 
 
