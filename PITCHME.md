@@ -15,10 +15,9 @@
 
 ### Was beeinflusst die Sichtbarkeit von Informationen?
 
-**Content Shock (Mark Schaefer, 2013)**
+**Content Shock: Wettbewerb um Aufmerksamkeit (Mark Schaefer, 2013)**
 
-Wettbewerbssituation um Aufmerksamkeit: 
-<img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="80%" height="80%" border="0" />
+<img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="60%" height="60%" border="0" />
 
 Immer mehr Content ...
 ... trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit.
