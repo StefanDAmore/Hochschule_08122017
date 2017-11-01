@@ -19,9 +19,9 @@ Mark Schaefers Content Shock
 
 Sein Resumee:
 
-1) Deep pockets win
-2) The entry barriers become impossibly high
-3) The cost-benefits flip 
+1. Deep pockets win
+2. The entry barriers become impossibly high
+3. The cost-benefits flip 
 
 <img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="20%" height="20%" border="0" />
 
