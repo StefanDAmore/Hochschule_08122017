@@ -25,7 +25,7 @@ Sein Resumee:
 
 <img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="20%" height="20%" border="0" />
 
-
+ 
 Links
 https://www.businessesgrow.com/2014/01/06/content-shock/
 
