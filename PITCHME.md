@@ -25,15 +25,19 @@
 
 +++
 
-<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
-
-
-
-**Resume von Mark Schaefer**
+**Schlussfolgerungen von Mark Schaefer**
 
 1. Deep pockets win: Die Kosten für die Produktion von 
 2. The entry barriers become impossibly high
 3. The cost-benefits flip 
+
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
+
++++
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ3eW3qQ2pk" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
