@@ -15,6 +15,14 @@
 
 ### Was beeinflusst die Sichtbarkeit von Informationen?
 
+Drei Mechanismen sind wichtig
+
+1. Werbung funktioniert immer schlechter (Adblocker, erlernte Ausblenden nicht relevanter Inhalte).
+2. Die Kommunikation wandelt sich von einer produktzentrierten zu einer nutzenorientierten Kommunikation (Content Marketing). 
+3. Google ist als zentraler Suchort für Informationen ein wichtiger Treiber von qualitativ hochwertigen Inhalten.
+
+
+
 **Content Shock: Wettbewerb um Aufmerksamkeit (Mark Schaefer, 2013)**
 
 <img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="40%" height="40%" border="0" />
@@ -27,8 +35,8 @@
 
 **Schlussfolgerungen von Mark Schaefer**
 
-1. Deep pockets win: Die Kosten für die Produktion von 
-2. The entry barriers become impossibly high
+1. Deep pockets win: Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
+2. The entry barriers become impossibly high:
 3. The cost-benefits flip 
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
