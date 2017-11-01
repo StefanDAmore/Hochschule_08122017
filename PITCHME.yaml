@@ -2,19 +2,3 @@ theme : white
 background : images/bg1.jpg
 logo : http://www.sdi-muenchen.de/fileadmin/templates/images/sdi_muc_logo_MUC.png
 charts: true;
-
-
-vertical-center : false;
-
-.reveal section img {
-  border: 0;
-  box-shadow: none;
-}
-
-.reveal .slides {
-    text-align: left;
-}
-.reveal .slides section>* {
-    margin-left: 0;
-    margin-right: 0;
-}
