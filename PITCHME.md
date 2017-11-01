@@ -1,31 +1,40 @@
-# Herzlich Willkommen! 
+# Content-Strategie, zweite Veranstaltung
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_27102017/master/images/1210656.jpg" width="20%" height="20%" border="0" />
 
 ---
 
-# Digitale Medien I & Digitale Medien II
+### Agenda 03.11.2017
+
+- Einführung: Was beeinflusst die Sichtbarkeit von Informationen? 
+- Vorgehensweisen und Beschreibungsmodelle
+- Projektbesprechung & Gruppenaufteilung
+- Gruppenarbeiten
 
 ---
 
-## M11 Wahlpflichtmodul I & M12 Wahlpflichtmodul II
+## Was beeinflusst die Sichtbarkeit von Informationen?
 
----
+Mark Schaefers Content Shock
 
-### Agenda 27.10.2017
+Sein Resumee:
 
-- Vorstellung Stefan D'Amore
-- Organisatorisches
-- Vorstellung der TeilnehmerInnen und Erwartungen an das Seminar 
-- Vorgehensweisen und Ziele während des Semesters
-- Was bedeutet Content-Strategie?
-- Präsentation Content Maturity Matrix & Besprechung
-- Referatsthemen
+1) Deep pockets win
+2) The entry barriers become impossibly high
+3) The cost-benefits flip 
 
----
+<img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="20%" height="20%" border="0" />
 
-## Vorstellung Stefan D'Amore
-### Redaktion / IT / Marketing
+
+Links
+https://www.businessesgrow.com/2014/01/06/content-shock/
+
+
+
+Artikel von Mark Schaefer
+Aufmerksamkeitsspanne sinkt. Immer mehr Content trifft auf eine gleich bleibende Aufmerksamkeitsverfügbarkeit
+Aktuelle Studien / Übersichtsseiten —> was wird produziert? (Soviel Content wird in einer Minute produziert)
+
 
 +++
 
