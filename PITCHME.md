@@ -15,10 +15,9 @@
 
 ### Was beeinflusst die Sichtbarkeit von Informationen?
 
-Content Shock (Mark Schaefer, 2013)
+**Content Shock (Mark Schaefer, 2013)**
 
-Wettbewerbssituations von Content verschärft sich zunehmend.
-Immer mehr Content trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit (in Zeit).
+Wettbewerbssituation: Immer mehr Content trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit (in Zeit).
 
 <img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="40%" height="40%" border="0" />
 
