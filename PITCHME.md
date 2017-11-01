@@ -19,16 +19,13 @@
 
 <img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="40%" height="40%" border="0" />
 
-Immer mehr Content ...
-... trifft auf eine irgendwann nicht steigerbare Konsumfähigkeit.
++++
+
+<img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="60%" height="60%" border="0" />
 
 +++
 
-<img src="https://www.businessesgrow.com/wp-content/uploads/2014/01/content-shock-graphic.jpg" width="80%" height="80%" border="0" />
-
-+++
-
-<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="80%" height="80%" border="0" />
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
 
 
 
