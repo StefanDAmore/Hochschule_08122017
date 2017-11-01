@@ -28,7 +28,7 @@ Immer mehr Content ...
 
 +++
 
-<img src="https://github.com/StefanDAmore/hochschule_03112017/blob/master/images/internetnutzung.png" width="80%" height="80%" border="0" />
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_27102017/master/images/internetnutzung.png" width="80%" height="80%" border="0" />
 
 
 
