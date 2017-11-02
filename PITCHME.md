@@ -79,7 +79,7 @@ https://www.businessesgrow.com/2014/01/06/content-shock/
 
 --- 
 
-<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/ibusiness_soziale_netzwerke.jpg" width="60%" height="60%" border="0" />
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/ibusiness_soziale_netzwerke.jpg" width="50%" height="50%" border="0" />
 
 --- 
 
