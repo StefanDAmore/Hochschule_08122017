@@ -79,25 +79,7 @@ https://www.businessesgrow.com/2014/01/06/content-shock/
 
 --- 
 
-### Name
-## Mitgliederanzahl 
-### International: XXX / National: XXX
-
---- 
-
-**Eingesetzte Content-Typen**<br />
-(Blog-Artikel / Bilder / Video / Sound ...)
-
-**Hervorstechende Formate / Anwendungen**<br />
-
-**Empfehlung, als Kanal zu nutzen?**<br />
-Ja / Nein / Warum? (Für wen könnte der Kanal interessant sein?)
-
-**Werbung möglich?**<br />
-Ja / Nein (wie funktioniert das?)
-
-**Wer hält sich in dem Kanal auf?**<br />
-Wer ist die Zielgruppe in dem Kanal?
+<img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/ibusiness_soziale_netzwerke.jpeg" width="20%" height="20%" border="0" />
 
 ---
 
