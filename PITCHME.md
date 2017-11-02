@@ -46,97 +46,35 @@
 
 **Schlussfolgerungen von Mark Schaefer**
 
-1. Deep pockets win: Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
-2. The entry barriers become impossibly high:
-3. The cost-benefits flip 
+1. Deep pockets win: <br />
+Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
 
++++
 
+**Schlussfolgerungen von Mark Schaefer**
 
- 
+2. The entry barriers become impossibly high:<br />
+Es wird immer schwieriger, mit den eigenen Inhalte aufzufallen. Die technischen/ Produktions-Barrieren werden immer höher.
+
++++
+
+**Schlussfolgerungen von Mark Schaefer**
+
+3. The cost-benefits flip <br />
+Der Aufwand, Content zu produzieren, der gesehen wird, wird immer höher. <br />
+Folge: Es wird irgendwann insbesondere für kleinere Anbieter zu teuer, Content zu produzieren.
+
++++
+
+**Alternativen**
+
+Es gibt keine.
+
++++
+
 Links
 https://www.businessesgrow.com/2014/01/06/content-shock/
 
-
-
-Artikel von Mark Schaefer
-Aufmerksamkeitsspanne sinkt. Immer mehr Content trifft auf eine gleich bleibende Aufmerksamkeitsverfügbarkeit
-Aktuelle Studien / Übersichtsseiten —> was wird produziert? (Soviel Content wird in einer Minute produziert)
-
-
-+++
-
-### Redaktionelle Tätigkeiten
-- Chefredakteur Software & Support Verlag
-- Verleger MX Magazin
-- Freier Journalist
-- Redakteur tecChannel, IDG, erstes Webzine Deutschlands, zuständig für Internettechnologien
-- Lektor redtec publishing, Trainingsunterlagen
-- Autor Trainingsunterlagen
-
-+++
-
-### Tätigkeiten in der IT
-
-Geschäftsführer Dataion GmbH <br />(Hauptkunde Munich Re)
-
-- E-Mail-Marketing
-- Integration Webinar-Technologien
-- Aufbau Bereichsauftritte Intranet 
-
-+++
-
-### Tätigkeiten im Marketing
-- Senior Content Marketing Specialist & Demand Generation (ScribbleLive /Scompler)
-- Projektmanager Digitales Marketing (Thüga AG)
-
----
-
-### Organisatorisches
-- Teilnehmerinnenliste
-- Termine
-- Informationsmaterial & Abstimmung --> Trello
-- WhatsApp-Gruppe? —> Telefonliste
-
----
-
-### Vorstellung der TeilnehmerInnen 
-- Wer sind Sie?
-- Woher kommen Sie?
-- Welche Vorerfahrung haben Sie zum Thema Internet?
-
----
-
-### Erwartungen an das Seminar (Karten)
-- Teilnehmerinnen
-- Dozent
-- Hochschule 
-
----
-
-### Welche Sorgen / Befürchtungen haben Sie / was soll auf keinen Fall passieren?
-
----
-
-### Gruppenarbeit <br />Was bedeutet Content-Strategie?
-- Was ist Content?
-- Was ist Strategie?
-- Was hat das mit Unternehmenskommunikation zu tun?
-
----
-
-## Präsentation Content Maturity Matrix
-### Besprechung 
-
----
-
-### Vorgehensweisen und Ziele während des Semesters
-- Kurze Einführung in das jeweilige Thema der Blockveranstaltung
-- Kurzreferate zu im Vorfeld vergebenen Themen
-- Ansätze zu einer Content-Strategie für die Hochschule erarbeiten
-
----
-
-## Referate
 
 --- 
 
