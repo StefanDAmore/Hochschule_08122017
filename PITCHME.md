@@ -46,7 +46,7 @@
 
 **Deep pockets win**
 
-Gesehen zu werden wird immer teuerer, absehbar werden soich vor allem große Unternehmen die Investitionen leisten können. 
+Gesehen zu werden wird immer teuerer. Es ist absehbar, dass sich mittel- und langfristig hauptsächlich große Unternehmen die Investitionen leisten können. 
 
 +++
 
