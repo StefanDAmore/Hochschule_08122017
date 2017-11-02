@@ -44,25 +44,21 @@
 
 +++
 
-**Schlussfolgerungen von Mark Schaefer**
+**Deep pockets win**
 
-1. Deep pockets win: <br />
-Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
+Gesehen zu werden wird immer teuerer, absehbar werden soich vor allem große Unternehmen die Investitionen leisten können. 
 
 +++
 
-**Schlussfolgerungen von Mark Schaefer**
+**The entry barriers become impossibly high**
 
-2. The entry barriers become impossibly high:<br />
 Es wird immer schwieriger, mit den eigenen Inhalte aufzufallen. Die technischen/ Produktions-Barrieren werden immer höher.
 
 +++
 
-**Schlussfolgerungen von Mark Schaefer**
+**The cost-benefits flip**
 
-3. The cost-benefits flip <br />
-Der Aufwand, Content zu produzieren, der gesehen wird, wird immer höher. <br />
-Folge: Es wird irgendwann insbesondere für kleinere Anbieter zu teuer, Content zu produzieren.
+Die Kosten für die Content-Produktion und -Bereitstellung übersteigen irgendwann den Ertrag, den die Content-Produktion bringt. Kleine Anbieter fallen aus dem Wettbewerb.
 
 +++
 
