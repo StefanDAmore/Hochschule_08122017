@@ -91,7 +91,7 @@ http://www.ard-zdf-onlinestudie.de/files/2017/Artikel/Kern-Ergebnisse_ARDZDF-Onl
 
 --- 
 
-<iframe width="800" height="800" src="//www.thinglink.com/card/608357471605489665" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
+<iframe width="600" height="600" src="//www.thinglink.com/card/608357471605489665" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe>
 
 --- 
 
