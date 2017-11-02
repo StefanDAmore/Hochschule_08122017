@@ -85,8 +85,11 @@ http://www.ard-zdf-onlinestudie.de/files/2017/Artikel/Kern-Ergebnisse_ARDZDF-Onl
 
 --- 
 
+**Strategien im Content Shock**
+
 <img src="https://38r0us9g9l1438rwf2z2tcsz-wpengine.netdna-ssl.com/wp-content/uploads/2014/01/paid-earned-owned-shared-media.png" width="60%" height="60%" border="0" />
 
+--- 
 
 **Simon Sinek: Start with the why**
 
