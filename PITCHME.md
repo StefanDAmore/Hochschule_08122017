@@ -16,7 +16,7 @@
 
 ---
 
-### Content Shock: Zuviel Content, zuwenig Zeit
+### Content Shock: <br />Zuviel Content, zuwenig Zeit
 +++
 
 **Content Shock: Wettbewerb um Aufmerksamkeit (Mark Schaefer, 2013)**
