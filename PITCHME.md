@@ -11,7 +11,8 @@
 - Aktuelle Situation: Content Shock
 - Vorgehensweisen und Beschreibungsmodelle
 - Projektbesprechung & Gruppenaufteilung
-- Gruppenarbeiten
+- Gruppenarbeiten & Präsentation
+- Referate
 
 ---
 
@@ -20,7 +21,7 @@
 
 **Content Shock: Wettbewerb um Aufmerksamkeit (Mark Schaefer, 2013)**
 
-<img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="40%" height="40%" border="0" />
+<img src="https://www.businessesgrow.com/wp-content/uploads/2013/12/Content-Shock-definition.jpg" width="60%" height="60%" border="0" />
 
 +++
 
