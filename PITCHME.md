@@ -33,6 +33,8 @@
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
 
+http://www.ard-zdf-onlinestudie.de/files/2017/Artikel/Kern-Ergebnisse_ARDZDF-Onlinestudie_2017.pdf
+
 +++
 
 <iframe src="https://infogrfx.com/embed.php?path=infographic/7661" border="0" width="100%" scrolling="no" id="iFrameResizer0" style="overflow: hidden; height: 1407px;"></iframe>
@@ -68,9 +70,9 @@ Es gibt keine.
 
 +++
 
-Links
-https://www.businessesgrow.com/2014/01/06/content-shock/
-
+**Links**
+https://www.businessesgrow.com/2014/01/06/content-shock/<br />
+http://www.ard-zdf-onlinestudie.de/files/2017/Artikel/Kern-Ergebnisse_ARDZDF-Onlinestudie_2017.pdf
 
 --- 
 
@@ -80,6 +82,12 @@ https://www.businessesgrow.com/2014/01/06/content-shock/
 --- 
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/ibusiness_soziale_netzwerke.jpg" width="50%" height="50%" border="0" />
+
+--- 
+
+**Simon Sinek: Start with the why**
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/simon_sinek_how_great_leaders_inspire_action" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 --- 
 
