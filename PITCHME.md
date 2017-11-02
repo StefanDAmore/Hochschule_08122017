@@ -29,19 +29,21 @@
 
 +++
 
-**Schlussfolgerungen von Mark Schaefer**
-
-1. Deep pockets win: Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
-2. The entry barriers become impossibly high:
-3. The cost-benefits flip 
+**ARD-/ZDF-Onlinestudie**
 
 <img src="https://raw.githubusercontent.com/StefanDAmore/hochschule_03112017/master/images/internetnutzung.png" width="60%" height="60%" border="no" />
 
 +++
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ3eW3qQ2pk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://infogrfx.com/embed.php?path=infographic/7661" border="0" width="100%" scrolling="no" id="iFrameResizer0" style="overflow: hidden; height: 1407px;"></iframe>
 
++++
 
+**Schlussfolgerungen von Mark Schaefer**
+
+1. Deep pockets win: Gesehen zu werden wird immer teuerer und somit für die kleineren Anbieter von Inforamtionen immer schwieriger.  
+2. The entry barriers become impossibly high:
+3. The cost-benefits flip 
 
 
 
