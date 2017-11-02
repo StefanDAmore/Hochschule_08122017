@@ -6,22 +6,17 @@
 
 ### Agenda 03.11.2017
 
-- Einführung: Was beeinflusst die Sichtbarkeit von Informationen? 
+- Trello
+- Projektvorstellung
+- Aktuelle Situation: Content Shock
 - Vorgehensweisen und Beschreibungsmodelle
 - Projektbesprechung & Gruppenaufteilung
 - Gruppenarbeiten
 
 ---
 
-### Was beeinflusst die Sichtbarkeit von Informationen?
-
-Drei Mechanismen sind wichtig
-
-1. Werbung funktioniert immer schlechter (Adblocker, erlernte Ausblenden nicht relevanter Inhalte).
-2. Die Kommunikation wandelt sich von einer produktzentrierten zu einer nutzenorientierten Kommunikation (Content Marketing). 
-3. Google ist als zentraler Suchort für Informationen ein wichtiger Treiber von qualitativ hochwertigen Inhalten.
-
-
+### Content Shock: Zuviel Content, zuwenig Zeit
++++
 
 **Content Shock: Wettbewerb um Aufmerksamkeit (Mark Schaefer, 2013)**
 
