@@ -9,7 +9,7 @@
 - Wo stehen wir gerade?
 - Wordpress-Referat
 - Wordpress-Erklärung & Projekt
+- Limbic-Types
 - Verständnis des 'Kunden' Student/In des SDI
 - Referat Umfrage & typeform
-- Limbic-Types
 - Umfrage & Fotos / Videos
