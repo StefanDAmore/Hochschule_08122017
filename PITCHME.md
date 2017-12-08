@@ -4,14 +4,12 @@
 
 ---
 
-### Agenda 17.11.2017
+### Agenda 08.12.2017
 
 - Aktueller Stand
-
-- Referat zur Videobearbeitung
+- Referat: Einblicke in die Videobearbeitung
 - Bisher erstellte Videos
 - Überarbeitungsmöglichkeiten
 - Core Stories / Anwendungsbeispiele für Videos
-- Was können wir auf der Landing Page abbilden?
+- Referat: Was können wir auf der Landing Page abbilden?
 - Diskussion
-- Raumwechsel: IT-Raum mit den PCs
